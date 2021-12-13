@@ -5,11 +5,11 @@ Project was provided and supervised by Explore Data Science Academy (EDSA)
 
 ### Team members:
 
-Hendri Kouter(@hendri80)
+Hendri Kouter(Github username: @hendri80)
 
-Dineo Seakhela (@DashMeUp)
+Dineo Seakhela (Github username: @DashMeUp)
 
-Wisani Khosa 
+Wisani Khosa (Github username: @wkhosa-wizro)
 
 Siyamukela Hadebe 
 
